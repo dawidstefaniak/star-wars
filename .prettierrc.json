@@ -1,0 +1,10 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "jsxBracketSameLine": true,
+    "arrowParens": "avoid",
+    "vueIndentScriptAndStyle": false,
+    "endOfLine": "lf",
+    "tabWidth": 4
+}
+
